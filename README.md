@@ -1,4 +1,4 @@
-# OIBSIP_Task4_EmailSpamDetection
+# OIBSIP_DataScience_Task4_EmailSpamDetection
 
 ##  Objective
 Build a machine-learning model that classifies email messages as **Spam** or **Ham (Not Spam)**.
