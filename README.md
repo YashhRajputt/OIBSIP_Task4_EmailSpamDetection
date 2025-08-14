@@ -23,3 +23,5 @@ Build a machine-learning model that classifies email messages as **Spam** or **H
 ## ✅ Outcome
 A robust spam detector that achieves high accuracy on the test set and can be used to score new messages.
 
+## Requirements 
+pandas , numpy , scikit-learn , matplotlib , seaborn , joblib
